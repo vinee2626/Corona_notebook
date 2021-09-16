@@ -5,6 +5,9 @@ Resources :
 
             https://stackoverflow.com/
             
+            https://matplotlib.org/
+            
+            https://pandas.pydata.org/docs/
             
 
 I have extracted this data-set from kaggle to perform basic data exploration on the data in regards to confirmed cases of corona, the number of deaths across provinces/states in every country/region.
