@@ -1,5 +1,8 @@
 # Corona data analytics 
 
+Resources : https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+            https://stackoverflow.com/
+
 I have extracted this data-set from kaggle to perform basic data exploration on the data in regards to confirmed cases of corona, the number of deaths across provinces/states in every country/region.
 
 The libraries in this project include pandas, matplotlib, seaborn and os to compute and visualize the data to answer certain meaningful questions in order to gain insight of the data.
